@@ -1,2 +1,4 @@
-# RStudio-Statistics
-My work in statistics class
+# Key Features:
+- Hypothesis testing
+- Rstudio, RMarkdown
+- Model Building and Model Evaluation
